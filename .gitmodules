@@ -1,3 +1,6 @@
 [submodule "college-frontpage"]
 	path = college-frontpage
 	url = git@github.com:adityabhusari/college-frontpage.git
+[submodule "resident-evil-page"]
+	path = resident-evil-page
+	url = git@github.com:adityabhusari/resident-evil-page.git
