@@ -1,0 +1,3 @@
+[submodule "college-frontpage"]
+	path = college-frontpage
+	url = git@github.com:adityabhusari/college-frontpage.git
